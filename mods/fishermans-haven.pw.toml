@@ -1,0 +1,13 @@
+name = "[HUGE UPDATE] Fisherman's Haven"
+filename = "fishermans_haven-2.1209-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cNrIBpSY/versions/LlakeS8o/fishermans_haven-2.1209-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "8503692d90288737bbbc3abf4ad34b2163b7d1341ce903bd68219905609fc000918a6ff56c28f27802f2eedbb3cdcf4b070154d7f62fd4548e1bb9583cf20f2a"
+
+[update]
+[update.modrinth]
+mod-id = "cNrIBpSY"
+version = "LlakeS8o"

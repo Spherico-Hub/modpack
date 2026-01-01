@@ -1,0 +1,16 @@
+name = "SphericoMC"
+author = "Spherico Hub"
+version = "4.1.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "516352d08bad9b5e78f70843e6719080ca2dd94bf0e46d60cdfa02a61873b480"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.184"
+
+[options]
+acceptable-game-versions = ["1.21"]

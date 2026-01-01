@@ -1,0 +1,13 @@
+name = "Bucket'Em"
+filename = "bucketem-neoforge-1.21.1-1.9.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/l8gfuK54/versions/RPSVGHOj/bucketem-neoforge-1.21.1-1.9.2.jar"
+hash-format = "sha512"
+hash = "24b55c0715c305208c12cef81d110b07d6dd48b50ffcf3ff3b5ffe5b84ef8e70228b43546c365ba551ba3b2901130f01d0cff17461eb8499c731b075a7c99292"
+
+[update]
+[update.modrinth]
+mod-id = "l8gfuK54"
+version = "RPSVGHOj"

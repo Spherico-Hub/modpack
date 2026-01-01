@@ -1,0 +1,13 @@
+name = "Berserker (More RPG Classes)"
+filename = "berserker_rpg-neoforge-2.5.4+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8hqOZzxM/versions/uXYQQsU8/berserker_rpg-neoforge-2.5.4%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "92ded685bc11ffb2c2a291050744868bb9ee4f13b37c5e4bab94556de0a896428049f85892b73d264cbc47882b15078e5d62ce9a4fbcca07dac919b2313b1e02"
+
+[update]
+[update.modrinth]
+mod-id = "8hqOZzxM"
+version = "uXYQQsU8"

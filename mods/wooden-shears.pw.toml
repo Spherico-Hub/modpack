@@ -1,0 +1,13 @@
+name = "Wooden Shears"
+filename = "woodenshears-neoforge-1.21-3.2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/J3VVx8dO/versions/kaJYUX1f/woodenshears-neoforge-1.21-3.2.2.0.jar"
+hash-format = "sha512"
+hash = "e5f305bbb0af7d81c9fa2e05f7b1fd44f3f36ab397df5770a664fec44423629fc0bb275f3eb50dbda71d2c6a3d128f9f7e076b47dcdbbadd0ab41f53427d8ed5"
+
+[update]
+[update.modrinth]
+mod-id = "J3VVx8dO"
+version = "kaJYUX1f"

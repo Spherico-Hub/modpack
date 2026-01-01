@@ -1,0 +1,13 @@
+name = "Too Many Bows"
+filename = "too_many_bows-neoforge-1.21.1-2.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FOiJ92uI/versions/OsG8sypj/too_many_bows-neoforge-1.21.1-2.3.3.jar"
+hash-format = "sha512"
+hash = "35fff655f2daf2aa8b2a8a93a25cca039dcaf13a6978610d009183020e9ffd3a46947d8d6db761cb4a3f688bc34b0d61da17949754ce05f87705174f88c8a85d"
+
+[update]
+[update.modrinth]
+mod-id = "FOiJ92uI"
+version = "OsG8sypj"

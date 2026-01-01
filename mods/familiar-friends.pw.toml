@@ -1,0 +1,13 @@
+name = "Familiar Friends"
+filename = "familiar_friends-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TFBCpGnI/versions/F5rxjYlt/familiar_friends-1.0.6.jar"
+hash-format = "sha512"
+hash = "15ca69172fd5597053212f93ead0d172ad78eceb8603fcc108a018b2e05cc70df9ee011e57a055b503fc30b69d865865c4bfd038466d956bdef38d8fd8475037"
+
+[update]
+[update.modrinth]
+mod-id = "TFBCpGnI"
+version = "F5rxjYlt"
