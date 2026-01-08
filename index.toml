@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "datapacks/kawamood-no-ghast-grief.pw.toml"
+hash = "05dc19ac1c280485ad4bf0e3810459fd9de796ecce31a8626ea37d6688d0b753"
+metafile = true
+
+[[files]]
+file = "datapacks/vanilla-refresh.pw.toml"
+hash = "f3161be27569779cff0b3c68ce655b5df0f466076a04311accaaf2deabf7ac8e"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "47d32eec023f9d00f16bd5fba49778ad622dca453ec2306e8d1af2daf625b51f"
 metafile = true
@@ -828,6 +838,11 @@ metafile = true
 [[files]]
 file = "mods/neruina.pw.toml"
 hash = "8231e82c20a0ecfad3bb75b1cb925cc2d9f76ff549dca6941bfb439fd80bc7aa"
+metafile = true
+
+[[files]]
+file = "mods/no-creeper-grief.pw.toml"
+hash = "4e5c69164ccb4ef7b4a3bd547cf965db8287985dd497c61b4db707fcb071fd85"
 metafile = true
 
 [[files]]
