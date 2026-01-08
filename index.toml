@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "e02d1ec4a4044ec4d62f91ad2b0bce15736f89e40d00caf3b18b5374b04d2809"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "47d32eec023f9d00f16bd5fba49778ad622dca453ec2306e8d1af2daf625b51f"
 metafile = true
@@ -96,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/areas.pw.toml"
-hash = "df16356a5fcf14877500a5097f16036b6bf01128b95f414df6c452eb2262fcd4"
+hash = "178622c5b58b949428f417160bad79978e91b37978fd29099d442775b9a3e5fa"
 metafile = true
 
 [[files]]
@@ -531,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "df91b3484331a98b57ce873a387885e6be50c0e1cd92fd273553b86599411f5c"
+hash = "e01e6de732ef71467c24a344929b41ee8d598f8b8c15808e29f1b0e8b713c1b7"
 metafile = true
 
 [[files]]
@@ -692,6 +688,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "7b8e8af83e8583adc91b2d859e5355f1bd0516a346d2584b8b01c004467d18af"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "f1af6465928843e5a89eb0602457a89e100168053bb507150744ced4953a286e"
 metafile = true
 
 [[files]]
@@ -1011,7 +1012,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
+hash = "bf0ceab8f5adcf818e80513348c6a8f601137890b925f3bff355cdc50f65e77d"
 metafile = true
 
 [[files]]
