@@ -1,3 +1,4 @@
+# Spherico Modpack
 ## Versioning convention
 v`X`.`Y`.`Z[cs]`
 
