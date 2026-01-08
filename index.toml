@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "e02d1ec4a4044ec4d62f91ad2b0bce15736f89e40d00caf3b18b5374b04d2809"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "47d32eec023f9d00f16bd5fba49778ad622dca453ec2306e8d1af2daf625b51f"
 metafile = true
@@ -458,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "efce3d2641cbf0963e2b43d37f68839cca9727bcd9455998ee82a5a18d679058"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
 metafile = true
 
 [[files]]
@@ -926,6 +935,11 @@ hash = "f70753b73b9baee1550e932231cdca1da45c4516c6b7b8763a2a164e0bf375ce"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "3f91721767cb5b94e69bb5e61e787ad65e433bf50c6ae4fa47916b9c21535df6"
 metafile = true
@@ -968,6 +982,11 @@ metafile = true
 [[files]]
 file = "mods/shield-api.pw.toml"
 hash = "08f35f067c7a764a894254a8e5c790a8de5e03f21fcff2875a14a31f16b6627a"
+metafile = true
+
+[[files]]
+file = "mods/silk.pw.toml"
+hash = "90d1f4ee70f4b208b623af04b48be8fd5b98b411cbd4d9d0a5b23d07ba99c1e4"
 metafile = true
 
 [[files]]
@@ -1072,7 +1091,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
-hash = "1e29968c1d8f6c6ff9de68ceb1f4a477fbf2ebd404ccf6ed59e8c9c2c4285d95"
+hash = "b43fd8343ee66b129ea22bcd7ba47ad392e7edc33cb24be0ed604b2225ed0229"
 metafile = true
 
 [[files]]
@@ -1092,7 +1111,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "63aea16cbf3e00874a05889f1553f3ef4640b04d10c370bba78eb2377f4fbf07"
+hash = "16ff4440f9ceb00cf30d63cd063dc5759e3a19260837c11cf678824652f8344c"
 metafile = true
 
 [[files]]
