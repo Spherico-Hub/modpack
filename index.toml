@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "datapacks/kawamood-no-ghast-grief.pw.toml"
-hash = "05dc19ac1c280485ad4bf0e3810459fd9de796ecce31a8626ea37d6688d0b753"
+hash = "5b874e8b46f339c398b81db5beaed17ba1b552ddf718f512ad7d6b8e2a0577fd"
 metafile = true
 
 [[files]]
 file = "datapacks/vanilla-refresh.pw.toml"
-hash = "f3161be27569779cff0b3c68ce655b5df0f466076a04311accaaf2deabf7ac8e"
+hash = "8cdddcafe09baa2824bcc52d8541c8001f3df8244d4eee796a392aac0eb7b58c"
 metafile = true
 
 [[files]]
