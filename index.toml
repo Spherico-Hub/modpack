@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/fishermans-haven.pw.toml"
-hash = "4c6cf5e6fed9b1085c53399c43234e23a70e384b9f41c793eb5766dd998b60bd"
+hash = "edbb6f7c80b1cd4035515bba025e586785f4163b403ff8f94925baf9a6cef4c4"
 metafile = true
 
 [[files]]
