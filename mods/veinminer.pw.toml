@@ -1,6 +1,6 @@
 name = "Veinminer"
 filename = "veinminer-fabric-2.4.2.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/OhduvhIc/versions/1NZqjOaM/veinminer-fabric-2.4.2.jar"
