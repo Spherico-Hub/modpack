@@ -1,6 +1,7 @@
 name = "Create: Framed"
 filename = "createframed-1.21.1-1.7.1.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/15fFZ3f4/versions/WU05agPt/createframed-1.21.1-1.7.1.jar"

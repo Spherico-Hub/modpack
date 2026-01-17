@@ -1,7 +1,6 @@
 name = "[HUGE UPDATE] Fisherman's Haven"
 filename = "fishermans_haven-2.0806-neoforge-1.21.1.jar"
 side = "both"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/cNrIBpSY/versions/tZBn3nyl/fishermans_haven-2.0806-neoforge-1.21.1.jar"
