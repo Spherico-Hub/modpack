@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "25450edfd7c6357399ba732f70111c97c6a3bfd8d73c75fc84ce640951f1cf68"
+hash = "08a3d0a0aa3d9266550361c761ca6ffc4ca6204fbb65dbc0a9d2a695b7d0180f"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/bucketem.pw.toml"
-hash = "412a7580dc33ad773dc5e88555fde85b5b267a07864ff4d9bfccb90badb38e24"
+hash = "3dea91ebc0b74f08a5fe03c10afdecf6c784843e62c7ec9be0ae9053690720ed"
 metafile = true
 
 [[files]]
