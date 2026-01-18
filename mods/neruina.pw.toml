@@ -1,6 +1,6 @@
 name = "Neruina - Ticking Entity Fixer"
 filename = "neruina-3.1.7+1.21.1-neoforge.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/1s5x833P/versions/saJcTZPa/neruina-3.1.7%2B1.21.1-neoforge.jar"

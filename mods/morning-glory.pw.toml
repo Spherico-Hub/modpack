@@ -1,6 +1,6 @@
 name = "Morning Glory - Cat Morning Gift (RPG Theme)"
 filename = "morningglory-neoforge-1.21.1-1.0.1.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

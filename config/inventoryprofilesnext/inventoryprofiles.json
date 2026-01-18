@@ -1,0 +1,14 @@
+{
+    "ModSettings": {
+        "first_run": false
+    },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
+    },
+    "AutoRefillSettings": {
+        "autorefill_blacklist": "toughasnails:leather_dirty_water_canteen,toughasnails:leather_water_canteen,toughasnails:leather_purified_water_canteen,toughasnails:copper_dirty_water_canteen,toughasnails:copper_water_canteen,toughasnails:copper_purified_water_canteen,toughasnails:iron_dirty_water_canteen,toughasnails:iron_water_canteen,toughasnails:iron_purified_water_canteen,toughasnails:gold_dirty_water_canteen,toughasnails:gold_water_canteen,toughasnails:gold_purified_water_canteen,toughasnails:diamond_dirty_water_canteen,toughasnails:diamond_water_canteen,toughasnails:diamond_purified_water_canteen,toughasnails:netherite_dirty_water_canteen,toughasnails:netherite_water_canteen,toughasnails:netherite_purified_water_canteen",
+        "allow_break_for_non_enchanted": {
+            "value": true
+        }
+    }
+}
