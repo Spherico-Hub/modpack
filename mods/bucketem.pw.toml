@@ -1,6 +1,6 @@
 name = "Bucket'Em"
 filename = "bucketem-neoforge-1.21.1-1.9.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/l8gfuK54/versions/RPSVGHOj/bucketem-neoforge-1.21.1-1.9.2.jar"
