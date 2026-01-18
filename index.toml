@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "b6f4514d6c3e196ac7696b91a30366262a8d088eb913f6a3a924ceb82283b3a2"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "4f04e3078d0a6bc5565eeb419c5ea96f48118fc47748d0c8afa1a37341251d61"
+
+[[files]]
 file = "datapacks/kawamood-no-ghast-grief.pw.toml"
 hash = "5b874e8b46f339c398b81db5beaed17ba1b552ddf718f512ad7d6b8e2a0577fd"
 metafile = true
@@ -103,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/attributesfix.pw.toml"
 hash = "e9dac0a770335a20910b2a79d62d27c8531780994edf589cffc42db733cc04f0"
+metafile = true
+
+[[files]]
+file = "mods/autohud.pw.toml"
+hash = "d05032ebf4a658ab7923ee3404c06a54527fbfda79c3edd032f9d233909a8184"
 metafile = true
 
 [[files]]
@@ -313,6 +326,11 @@ metafile = true
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "ec69488edd55f31c6fc57cac9bab713a14394d1f63054cc4e2e5efc19a55abb9"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "fa7e815272f183ccdeac6baff3690f6291c4117646af8912123b705fde64dbef"
 metafile = true
 
 [[files]]
@@ -1043,11 +1061,6 @@ metafile = true
 [[files]]
 file = "mods/stateobserver.pw.toml"
 hash = "85e4848f535d49b98475c359edfc799ce88ae343985088326cc4a5e91b66ef6c"
-metafile = true
-
-[[files]]
-file = "mods/status-effect-bars-reforged.pw.toml"
-hash = "7a885ee7d508d52bfb140d610ae89193adddec31c25268e24dd89c152f7cc2d7"
 metafile = true
 
 [[files]]
