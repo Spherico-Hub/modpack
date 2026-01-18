@@ -8,6 +8,7 @@ v`X`.`Y`.`Z`
     *(A.K.A. the versions of shame)*
 
 ## Pinned mods
+*Convention: `Mod Name: Version, reason`
 - Fisherman's Haven: 2.0806, future breaking changes (removed biome)
 - Create: 6.0.8, incompatibility with Create: Interiors
 - Create Framed: 1.7.1, to Create being pinned
