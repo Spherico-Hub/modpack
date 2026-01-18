@@ -118,11 +118,6 @@ hash = "e9dac0a770335a20910b2a79d62d27c8531780994edf589cffc42db733cc04f0"
 metafile = true
 
 [[files]]
-file = "mods/autohud.pw.toml"
-hash = "d05032ebf4a658ab7923ee3404c06a54527fbfda79c3edd032f9d233909a8184"
-metafile = true
-
-[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "08a3d0a0aa3d9266550361c761ca6ffc4ca6204fbb65dbc0a9d2a695b7d0180f"
 metafile = true
@@ -1078,6 +1073,11 @@ hash = "85e4848f535d49b98475c359edfc799ce88ae343985088326cc4a5e91b66ef6c"
 metafile = true
 
 [[files]]
+file = "mods/status-effect-bars-reforged.pw.toml"
+hash = "96e36c447f00cf42622a78091883f054ec8ff708b285ef1351668cb00f081804"
+metafile = true
+
+[[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "53380b7ff8587946dfe2031191cbc2d254460053d190408f244207d7213e183d"
 metafile = true
@@ -1284,4 +1284,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1b809071c331e9a1164a8d264110a563d05afa71a0a4f416eb6fe505f60fd5b0"
+hash = "6d22efe7812d43e37cd31edbe4442056a61305a7c9230a2a15c17ac0895e9a71"
