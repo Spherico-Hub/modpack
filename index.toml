@@ -1267,3 +1267,7 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "2541b092b92a82757e5d200a6093658e20db548bb8583abad3f4506ed04e5ce6"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "ebe8fec32843c2454b0095f6191ea4f68c7917cf2397da9715dc2651f03471c1"
