@@ -45,6 +45,7 @@ Note: Dependencies are (usually) not included in the changelog.
 - Storage Labels
 
 **Others**
+- Integrated Packwiz for auto-updates
 - Updated the rest of the mods
 
 ### 4.1.3 - 25.08.2025
