@@ -309,6 +309,11 @@ hash = "ed5a88a8d97fe38cca25a42aa1ffcaf51f8f84535f872a9446eff96b92b5722a"
 metafile = true
 
 [[files]]
+file = "mods/create-dynamic-lights.pw.toml"
+hash = "56ff7fa56eb6ae7d32cdd1f7ce84022d1ed25b416dd9142572ef0d2360d49ec9"
+metafile = true
+
+[[files]]
 file = "mods/create-framed.pw.toml"
 hash = "766d0f0de62f196bd3f5742c80beb489e86aa0581dfd174132dca6b5b463ef2d"
 metafile = true
