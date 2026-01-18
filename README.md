@@ -3,7 +3,7 @@
 ## Changelog
 Note: Dependencies are (usually) not included in the changelog.
 
-### 4.2.0 - 18.01.2025
+### 4.2.0 - 18.01.2026
 **Added**
 - Accessories (Curios API) support to Corpse
 - Accessories Compatibility Layer
