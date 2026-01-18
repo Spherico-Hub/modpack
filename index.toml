@@ -19,6 +19,10 @@ hash = "2c10ec18617db6d838e02d9d02d7d08b67076eb2f600906881fb1157cd1e1def"
 metafile = true
 
 [[files]]
+file = "dev.md"
+hash = "dbed708f610b7fb4c4dea32e3438f9dd6c3deaacc64452529c0b24f7621025ba"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "47d32eec023f9d00f16bd5fba49778ad622dca453ec2306e8d1af2daf625b51f"
 metafile = true
