@@ -8,7 +8,6 @@ Note: Dependencies are (usually) not included in the changelog.
 - Accessories (Curios API) support to Corpse
 - Accessories Compatibility Layer
 - AttributesFix
-- AutoHUD
 - Better Combat
 - Curios API
 - The following Create addons:
@@ -20,6 +19,7 @@ Note: Dependencies are (usually) not included in the changelog.
 > - Man of Many Planes
 - Colorwheel & Colorwheel Patcher
 - Man of Many Planes
+- Status Effect Bars Reforged
 - Trinkets API
 
 **Removed**
