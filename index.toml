@@ -348,6 +348,11 @@ hash = "e691af631e0e969c9705cf093e5e613439d4780b67670783fb03c3c7009a36ad"
 metafile = true
 
 [[files]]
+file = "mods/create-train-physics.pw.toml"
+hash = "acbe3562310df185fd34c1161f02e4369b1088516ddc3577a289e312ca8e60c7"
+metafile = true
+
+[[files]]
 file = "mods/create-ultimate-factory.pw.toml"
 hash = "3388cfd97c8645424af34c7b839cb42078123f8522fbc022107cfbda097ce9ee"
 metafile = true
