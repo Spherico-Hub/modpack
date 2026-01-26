@@ -3,6 +3,15 @@
 ## Changelog
 Note: Dependencies are (usually) not included in the changelog.
 
+### 4.3.0 - 26.01.2026
+**Added**
+- Create: Bits n' Bobs
+- Create: Train Physics
+- Create: Pattern Schematics
+
+**Removed**
+- Create: Interiors
+
 ### 4.2.0 - 18.01.2026
 **Added**
 - Accessories (Curios API) support to Corpse

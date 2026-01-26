@@ -298,6 +298,11 @@ hash = "ef9a6da83be95d05a9328f74e3ef7378d7a5c82f191001bce69efb220f6c2498"
 metafile = true
 
 [[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "057eb73681389405fa203cd4b5d7d35dcb185f477e2b5298be086fb01dc49093"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "dbdb686363922b46666480726b8470cbb8a6ed8386c5c3f20ff6ac06b0654e67"
 metafile = true
@@ -320,6 +325,11 @@ metafile = true
 [[files]]
 file = "mods/create-man-of-many-planes.pw.toml"
 hash = "2cc0e1f0bf03986c8ff89e27035ce0a4d23670c5d49c7a334ee2914495b9ab5e"
+metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
 metafile = true
 
 [[files]]
@@ -650,11 +660,6 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "5f771525b2ddea308a86a89a94c323325dd72cd6e9dab948fd873746c69b3207"
-metafile = true
-
-[[files]]
-file = "mods/interiors.pw.toml"
-hash = "67152bf7d125ace7baabebefe243a692a62d8a175ae060692ab728c820c4b283"
 metafile = true
 
 [[files]]
@@ -1286,7 +1291,3 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "2541b092b92a82757e5d200a6093658e20db548bb8583abad3f4506ed04e5ce6"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "6d22efe7812d43e37cd31edbe4442056a61305a7c9230a2a15c17ac0895e9a71"
