@@ -523,6 +523,16 @@ hash = "a693f3ca25b4b4ece785887d5a095abb1ab959804fbf6c89f119100f1de1df4b"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "985b74e451dce434d27da73f711e365a874e7451220d574223555e888c518b1c"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "73a8d2c9acc370851795fb46dae3b3cc25ffdbd045cfd793cbb7700fa78f7630"
+metafile = true
+
+[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "e0ad7cb6cf33d7958b7c9b7af321807190adf45ada89d65892fe2d437fe3024d"
 metafile = true

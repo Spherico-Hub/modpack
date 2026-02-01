@@ -3,6 +3,13 @@
 ## Changelog
 Note: Dependencies are (usually) not included in the changelog.
 
+### 4.3.1 - 01.02.2026
+**Added**
+- Entity Model Features
+- Entity Texture Features
+
+Note: These two mods add support for advanced texture packs such as Fresh Animations. Such texture packs are not included in the modpack.
+
 ### 4.3.0 - 26.01.2026
 **Added**
 - Create: Bits n' Bobs
