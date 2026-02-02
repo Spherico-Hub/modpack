@@ -6,6 +6,8 @@ Note: Dependencies are (usually) not included in the changelog.
 ### 4.4.0 - 02.02.2026
 **Added**
 - Vanilla Backport
+- Vanilla Backport Compat
+- Vanilla Backport: Mob Variants
 
 **Removed**
 Friends & Foes
