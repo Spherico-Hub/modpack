@@ -588,11 +588,6 @@ hash = "996d66fb572b0cb3f26783d5ad352278276ccfde81670c03a91a0545216bd748"
 metafile = true
 
 [[files]]
-file = "mods/friends-and-foes-forge.pw.toml"
-hash = "70bef157b6284ab9dc570719312f174e0e2dc924c6308be5ab095ee633f80ecc"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "d73f3dd3fec138539b2c819e6a73fbf768cb9d73ddd2fbffa2f8f1bed9126651"
 metafile = true
@@ -1200,6 +1195,21 @@ metafile = true
 [[files]]
 file = "mods/universal-bone-meal.pw.toml"
 hash = "36451170388b68c89ba69f5f2bd4fd283d1811a3d9b5e31281a424f9ca6f61a7"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "a54310703cf1ad408c3c4019743a1e403d00d35f662b30765d8eb01983581a47"
+metafile = true
+
+[[files]]
+file = "mods/vb-compat.pw.toml"
+hash = "f1d4ab832039042564deb597162b7abf97bf7611c732712ecb528647f90965e4"
+metafile = true
+
+[[files]]
+file = "mods/vb-mob-variants-compat.pw.toml"
+hash = "ce2c77ea4776ab4945d50f8eb286d673abb946320d2aa8a3b956b58e4353fc50"
 metafile = true
 
 [[files]]

@@ -3,6 +3,13 @@
 ## Changelog
 Note: Dependencies are (usually) not included in the changelog.
 
+### 4.4.0 - 02.02.2026
+**Added**
+- Vanilla Backport
+
+**Removed**
+Friends & Foes
+
 ### 4.3.1 - 01.02.2026
 **Added**
 - Entity Model Features
