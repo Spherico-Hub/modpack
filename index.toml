@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "b6f4514d6c3e196ac7696b91a30366262a8d088eb913f6a3a924ceb82283b3a2"
+hash = "e67f39b60a3a9f5535e8fa4df5d70be14cd73f21a75ddb8def0990f4e76ee93e"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
