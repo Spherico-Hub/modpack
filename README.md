@@ -12,6 +12,7 @@ Note: Dependencies are (usually) not included in the changelog.
 - CraftPresence
 
 **Others**
+- Updated neoforge to 21.1.219
 - Updated the rest of the mods
 
 ### 4.4.0 - 02.02.2026
