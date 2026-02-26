@@ -3,6 +3,16 @@
 ## Changelog
 Note: Dependencies are (usually) not included in the changelog.
 
+### 4.5.0 - 02.25.2026
+**Added**
+- Simple Discord Rich Presence
+
+**Removed**
+- CraftPresence
+
+**Others**
+- Updated the rest of the mods
+
 ### 4.4.0 - 02.02.2026
 **Added**
 - Vanilla Backport
