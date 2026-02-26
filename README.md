@@ -3,19 +3,16 @@
 ## Changelog
 Note: Dependencies are (usually) not included in the changelog.
 
-### 4.5.0 - 02.25.2026
+### 4.5.0 - 25.02.2026
 **Added**
-- Create Deco
-- Dynmap
-- Simple Discord Rich Presence
+- Simple Rich Discord Presence
 
 **Removed**
 - CraftPresence
-- Squaremap
 
-**Others**
-- Updated neoforge to 21.1.219
-- Updated the rest of the mods
+**Updated**
+- Create
+- Create: Framed
 
 ### 4.4.0 - 02.02.2026
 **Added**
