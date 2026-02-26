@@ -478,6 +478,11 @@ hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
 
 [[files]]
+file = "mods/dynmap.pw.toml"
+hash = "18c4c3fa607b7713fc1379bf37830a63b79afcadae5416a867ba39d70e08123c"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
 metafile = true
@@ -700,11 +705,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
-metafile = true
-
-[[files]]
-file = "mods/journeymap.pw.toml"
-hash = "12f2ebbea7ce48cb564c50048af1bd539c91f2ac864a9b0e7da39624ba47e861"
 metafile = true
 
 [[files]]

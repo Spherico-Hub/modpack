@@ -6,12 +6,12 @@ Note: Dependencies are (usually) not included in the changelog.
 ### 4.5.0 - 02.25.2026
 **Added**
 - Create Deco
-- JourneyMap
+- Dynmap
 - Simple Discord Rich Presence
 
 **Removed**
 - CraftPresence
-- SquareMap
+- Squaremap
 
 **Others**
 - Updated neoforge to 21.1.219
