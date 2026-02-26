@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "e67f39b60a3a9f5535e8fa4df5d70be14cd73f21a75ddb8def0990f4e76ee93e"
+hash = "cfee9aa757b57312f56d80c8d68b0ca58f3ad087f0c81caedad7127096d588dc"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
@@ -293,11 +293,6 @@ hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
 metafile = true
 
 [[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "ef9a6da83be95d05a9328f74e3ef7378d7a5c82f191001bce69efb220f6c2498"
-metafile = true
-
-[[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "057eb73681389405fa203cd4b5d7d35dcb185f477e2b5298be086fb01dc49093"
 metafile = true
@@ -319,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-framed.pw.toml"
-hash = "766d0f0de62f196bd3f5742c80beb489e86aa0581dfd174132dca6b5b463ef2d"
+hash = "c576b82cc719775919a17dce9de6055376e6406637cf8f2c3fd94958ae660d6b"
 metafile = true
 
 [[files]]
@@ -369,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "baa2bfe586cd65994b72dcfd3ef6abbb2a824491e2c86657a26ff305d87f5a44"
+hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
 metafile = true
 
 [[files]]
@@ -1085,6 +1080,11 @@ metafile = true
 [[files]]
 file = "mods/squaremap.pw.toml"
 hash = "2c19b23c5d383217f7570219b5aad584ac3bb45197581b814038baaaf90a0506"
+metafile = true
+
+[[files]]
+file = "mods/srdp.pw.toml"
+hash = "c40cd6e94191418cc6f334ffc37d55f09064ab19623ea119b2e74c9688d82109"
 metafile = true
 
 [[files]]
