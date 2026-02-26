@@ -5,6 +5,7 @@ Note: Dependencies are (usually) not included in the changelog.
 
 ### 4.5.0 - 25.02.2026
 **Added**
+- Create: Deco
 - Simple Rich Discord Presence
 
 **Removed**
