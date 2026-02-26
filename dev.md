@@ -7,5 +7,3 @@ v`X`.`Y`.`Z`
 
 ## Pinned mods
 - Fisherman's Haven 2.0806 due to future breaking changes (removed biome)
-- Create 6.0.8 due to later incompatibility with Create: Interiors
-- Create: Framed 1.7.1 due to Create being pinned
