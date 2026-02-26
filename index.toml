@@ -703,6 +703,11 @@ hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "12f2ebbea7ce48cb564c50048af1bd539c91f2ac864a9b0e7da39624ba47e861"
+metafile = true
+
+[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "250a60ad345454a739a4ed90779501c31c90f5be387c3e52816ced6713012e98"
 metafile = true
@@ -1080,11 +1085,6 @@ metafile = true
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "03c32079e39cf21efb8d0b5f0d24f004b9221c1455d460fdcb621821f7285239"
-metafile = true
-
-[[files]]
-file = "mods/squaremap.pw.toml"
-hash = "2025a366af748e77e7df6fea1d736a8bdf05dc97503eb64bf13964f7bc2136b2"
 metafile = true
 
 [[files]]
