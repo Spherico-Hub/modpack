@@ -1083,6 +1083,10 @@ hash = "03c32079e39cf21efb8d0b5f0d24f004b9221c1455d460fdcb621821f7285239"
 metafile = true
 
 [[files]]
+file = "mods/squaremap-signs-1.0.0-SNAPSHOT.jar"
+hash = "a49b10b45fc4cc8d525916be134a5c8eab0a786d0cc104a940907f7eb252a40f"
+
+[[files]]
 file = "mods/squaremap.pw.toml"
 hash = "2c19b23c5d383217f7570219b5aad584ac3bb45197581b814038baaaf90a0506"
 metafile = true
