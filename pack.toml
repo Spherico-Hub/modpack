@@ -1,17 +1,16 @@
 name = "SphericoMC"
 author = "Spherico Hub Contributors"
-version = "4.2.0"
+version = "5.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "042237dd39b7923fea23d7590c8b88b132ed0c9a760e9fa32817a87c2d29c074"
+hash = "0e520369329e8443e16d40df9a7971c663ee6cabecd24cde37251a27279eb730"
 
 [versions]
 minecraft = "1.21.1"
 neoforge = "21.1.219"
 
 [options]
-acceptable-game-versions = ["1.21"]
 datapack-folder = "datapacks"

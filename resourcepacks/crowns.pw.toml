@@ -1,0 +1,13 @@
+name = "Golden Crowns"
+filename = "AllCrowns_1.21.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mf7I6EQx/versions/99OR3t9v/AllCrowns_1.21.3.zip"
+hash-format = "sha512"
+hash = "657dfa62e6c6b9e10086666bf79b3485e3d6e3858b92defa61a01d4932fed75657d702ff0dbfb9bf5d128d943add4fe1f6180c24f11d53a618d4aee3cdeb2606"
+
+[update]
+[update.modrinth]
+mod-id = "Mf7I6EQx"
+version = "99OR3t9v"

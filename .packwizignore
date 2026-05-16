@@ -2,4 +2,5 @@
 .gitignore
 .gitattributes
 /README.md
+/dev.md
 *.zip

@@ -1,0 +1,13 @@
+name = "Villager Comfort Continued"
+filename = "villagercomfort-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/71WSad7F/versions/gntBWs1F/villagercomfort-1.1.0.jar"
+hash-format = "sha512"
+hash = "35c7cb47a047e01d7da907294819624bbd2c2e8b9a45c85813cd2a71d46409f2af33c3169e2c3f891a7618955257f7fb48ff4d5cff905541d047f1076b49ecfc"
+
+[update]
+[update.modrinth]
+mod-id = "71WSad7F"
+version = "gntBWs1F"
