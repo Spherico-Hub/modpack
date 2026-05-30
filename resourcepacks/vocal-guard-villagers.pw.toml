@@ -1,0 +1,13 @@
+name = "Vocal Guard Villagers"
+filename = "VocalGuards.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/x0nRxU5e/versions/Nmd5LTC7/VocalGuards.zip"
+hash-format = "sha512"
+hash = "676518d4e64de5e05acfa0223b5fc0ff15acdd80e4804cedcb1b608c382d1008076c83933ebb86f038a5883d1664e52b5c617e23b35305aaaf0fc2d0731177dc"
+
+[update]
+[update.modrinth]
+mod-id = "x0nRxU5e"
+version = "Nmd5LTC7"
