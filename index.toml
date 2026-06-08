@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "datapacks/veinminer-enchantment.pw.toml"
-hash = "dd11941c78ba3e885fd82d081dc27608c194933ae81c73b808ba136ad95aa6cc"
+hash = "596ac68660e5f07fadd48e1e63667ee14ec0f15e12ce904f16b8ff7e63ea72bb"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/areas.pw.toml"
-hash = "df16356a5fcf14877500a5097f16036b6bf01128b95f414df6c452eb2262fcd4"
+hash = "a4d8b41e9acd194adfcc6b16cf443d96e0e572ef54b2c622f3c9399b559f2666"
 metafile = true
 
 [[files]]
@@ -143,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/azurelib.pw.toml"
 hash = "0bc4527d43a4f7a29a62801efe3cde624aeabf519ab0aebf26c06ae6d7fc9f0b"
+metafile = true
+
+[[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "762fcd212e5049e6e8dcece301c4f33a17d3fc9b00744301c52c4695d7015523"
 metafile = true
 
 [[files]]
@@ -231,13 +236,8 @@ hash = "575ebf4c7a4d60e8db84e1dbbfed2c9bc73cd50abd61e5f37d92ac9a97cfd900"
 metafile = true
 
 [[files]]
-file = "mods/cataclysm-spellbooks.pw.toml"
-hash = "d081b466ddf0c20397f7e282944dd0df7d359c0373eeaed8a390117a62bf838c"
-metafile = true
-
-[[files]]
 file = "mods/chalk-mod.pw.toml"
-hash = "92705ff84059ac0735eb0dac4eac6a6f7e03049d2eead27c0a127a7320410668"
+hash = "c871176819bb20c57d603c7e8664a3ff8a43d3c9e9ae5dd53c9c775e9d0e1d88"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisels-bits.pw.toml"
-hash = "774b3afab92d453d928b18808eabb5416c84d9fdc4c3450e7becad6f702d04e5"
+hash = "f2ed10b48dbe7b9efcbd819e5625e14a6eeaff859ddd0a6044898925d29e76e0"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "34cb9102708e368a116c6b11e98728e0c4b471a6afdf7ce9602f93cb75174509"
+hash = "74bc0383c39468bf65dc1939e3ca4824409142c16c3896437da78fbd7fb658cd"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "21399291eab26dc16a3d3455b4388df2bc42512570729dbcdd60697c1a84fd77"
+hash = "3f99808dda6b83374cea1d478e2688c69af71a7381b176d0a7df50d219e44ca9"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "2ba3112a833d6e23aae1e0a38a7a324f89efb8a532ea101f355dc38490840b3b"
+hash = "616a0a7fc051382574b73276c74e60ae7c40d9cf1bbb9113375da164278ae94f"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "ae1cd2636e95d4606745de93501e6a6dcee208b656c4d35b6b8514120a9cc4ad"
+hash = "572ec7a57be68aa913863f4fa3be7208ae3dbb846043f3c5890a290976b41f90"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "05871de0994068a9b36fb9baecaed301c5534f82d0e85da1b5a83ea6918309a9"
+hash = "d1dd0981cbd7ae9601c9c4603f88826b68a0c7e76fc12ef6bc80f08188d7dfb8"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
-hash = "7e01c6f0728da08b83df626b866ca83e770b80d3213e9107561d4b816069ed37"
+hash = "a9ecc4476d26e707189e9f988c19f22961c33dfd5e5b4db1dfd6f87c6a81c545"
 metafile = true
 
 [[files]]
@@ -541,8 +541,13 @@ hash = "9b46726e3190aa9451b2018f648c7e12589b50676a2365f4df6daf0012df6806"
 metafile = true
 
 [[files]]
+file = "mods/dragonkind-evolved.pw.toml"
+hash = "9ca2ff19efe588fdb6e42b9d4e01fc7845512df69383151dc012ada187d35394"
+metafile = true
+
+[[files]]
 file = "mods/dragonlib.pw.toml"
-hash = "77109801093172dad01b0d62423eee91b317d23e094097760b065e980e8b10c2"
+hash = "f943c276fcebd5542c4b3dda60634728e1a70212f15dc9af8f0b7b9bb40199db"
 metafile = true
 
 [[files]]
@@ -657,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/formicapi.pw.toml"
-hash = "670bd68bf1acd53be0744ea72196adf873ac68fdd0d93de8ccecf53941f025fd"
+hash = "aae0725d4ae85a02fea04a9881496db0aadb437684352d4c1b96a56370490247"
 metafile = true
 
 [[files]]
@@ -692,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers.pw.toml"
-hash = "3094e2e522c2b5037d0aa2c0882624234420f607b9d9a22382bb272ce7af80c6"
+hash = "ceebcc0fa1e2d8617dec9270227a2c97db8ce3ea300d3e3782a464aab9e6e093"
 metafile = true
 
 [[files]]
@@ -772,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "46fd3a8062699383239729b7f4937fdd83177581492d3b12c8ad74dd52bfe05a"
+hash = "21af550ee15c7bf9b5be31121febf8f0132aca0bd88c407f8acdabb814f3a2c2"
 metafile = true
 
 [[files]]
@@ -818,11 +823,6 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
-metafile = true
-
-[[files]]
-file = "mods/l_enders-cataclysm.pw.toml"
-hash = "5197ac84b7bffaf24dffdb2974dc23fb94d31a10f26a1d165ab36816be835238"
 metafile = true
 
 [[files]]
@@ -952,7 +952,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "c8416fe79c21e4d747cb9a4a955e185981a298653fd89c2ff73410b3280af35e"
+hash = "8995c7dc69d3be56300278059e8ad5779050d3f1dadc341f069ecb401aa6c757"
 metafile = true
 
 [[files]]
@@ -1227,7 +1227,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "9cfdabfae56ec49c0c3939640e3149a2deebd33dc342f3585e0c82b9ac326ab6"
+hash = "148c5d14dfeca914d20ceea4defa9660fe588e6fc22cea23cab745504d4b2453"
 metafile = true
 
 [[files]]
@@ -1266,16 +1266,6 @@ hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
 metafile = true
 
 [[files]]
-file = "mods/true-ending.pw.toml"
-hash = "01ceaadc4312cec47b35c619dec9875fd5600e81202980afe79f27c91d6ac311"
-metafile = true
-
-[[files]]
-file = "mods/twilight-delight.pw.toml"
-hash = "27e90636fdfa7cf22824426238e2085766dc646f5f8f10803b4b81b4a4cd2529"
-metafile = true
-
-[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
@@ -1292,7 +1282,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "ef6ec054264f943b1391d230317264f146057b9e3b07e99f4c383c324831b190"
+hash = "de1c3ce98add2a76db8756ff390ea05dbed4b60f9c4d6cd81eaf01c25aed9f5e"
 metafile = true
 
 [[files]]
@@ -1312,7 +1302,7 @@ metafile = true
 
 [[files]]
 file = "mods/villager-names-serilum.pw.toml"
-hash = "d7ca2c58d4a501c22b6a503ee74dfa70739dcb4c5d393d0b0daa8349ef49bd37"
+hash = "d3c61cce4433ee1e1d53679cad5e6d89dd877d1313ed206288273495bbb3ab79"
 metafile = true
 
 [[files]]
@@ -1442,5 +1432,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/vvi.pw.toml"
-hash = "c27d7f15e62850450221bfc629f00fb2fd5b8247d0684d05b77c1daa7bbcf1a9"
+hash = "7c1244e52aa4a2c8548187c713a0f7039e40d1ae4e838161484e2e08968fdf00"
 metafile = true
