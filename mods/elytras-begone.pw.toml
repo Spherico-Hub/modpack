@@ -1,6 +1,6 @@
 name = "Elytras Begone"
 filename = "elytras-begone-1.2.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/FLKrq0JZ/versions/HCEeN311/elytras-begone-1.2.jar"

@@ -1,6 +1,6 @@
 name = "Elemental Attack Damage Compat For Iron's Spells and Spellbooks"
 filename = "elementalattackdamagecompat-1.2.8-1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/O9BOTj1n/versions/NiyWAUsG/elementalattackdamagecompat-1.2.8-1.21.1.jar"
