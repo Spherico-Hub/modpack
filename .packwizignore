@@ -3,4 +3,5 @@
 .gitattributes
 /README.md
 /dev.md
+/CHANGELOG.md
 *.zip

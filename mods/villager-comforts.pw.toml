@@ -1,0 +1,8 @@
+name = "villager-comforts"
+filename = "villagercomfort-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Spherico-Hub/villager-comfort-neoforged/releases/download/1.1.1/villagercomfort-1.1.1.jar"
+hash-format = "sha256"
+hash = "bafde73544a6ed96d0f0f7c2ec0a697e0279d7b6a5e8056e491a4f7fcb65dd9f"
