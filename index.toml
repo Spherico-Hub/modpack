@@ -1096,11 +1096,6 @@ hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
 metafile = true
 
 [[files]]
-file = "mods/sodium-options-mod-compat.pw.toml"
-hash = "d791fd50a3874ff69ab767bd35b7a30e4b33caaae9a129401a66cdc6cc43ee7c"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "25324a8a9cdc663d3d1952191e873f87531011715de49673cbf7c1b0da0504d6"
 metafile = true
@@ -1213,6 +1208,11 @@ metafile = true
 [[files]]
 file = "mods/veinminer.pw.toml"
 hash = "5c0770a75c9bf48611d0fe965d6653f6904640170b42552eb25ace717a41ee6d"
+metafile = true
+
+[[files]]
+file = "mods/villager-comforts.pw.toml"
+hash = "99b87076c0779b1278858d1655119be05dbe0d9afc4d206ca3fee3e405b89f3d"
 metafile = true
 
 [[files]]
