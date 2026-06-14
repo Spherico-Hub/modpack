@@ -1091,6 +1091,11 @@ hash = "25324a8a9cdc663d3d1952191e873f87531011715de49673cbf7c1b0da0504d6"
 metafile = true
 
 [[files]]
+file = "mods/sodiumleafculling.pw.toml"
+hash = "a73dfb1bf6884ae786b2def0624dee9010bf121d0b5678b46043d9312f54b501"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-perfected.pw.toml"
 hash = "44d8909d4501cf0d323a12c0f8a42893ac034a87c1d4faa757843c2a91866a6e"
 metafile = true
