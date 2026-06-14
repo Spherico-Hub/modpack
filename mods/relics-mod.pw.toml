@@ -1,13 +1,13 @@
 name = "Relics"
-filename = "relics-1.21.1-0.11.6.jar"
+filename = "relics-1.21.1-0.12.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OCJRPujW/versions/5HufKy1z/relics-1.21.1-0.11.6.jar"
+url = "https://cdn.modrinth.com/data/OCJRPujW/versions/WKEe9sPL/relics-1.21.1-0.12.8.jar"
 hash-format = "sha512"
-hash = "83bfc2a12db8c8695edd5d7a2a8de653dc5f7eb88d649a24868e5d365a1207e7c00a0fe7b949e41f5309c47ddc3a1c21c52b6331c7ce7d249a6a1d74a8f79f4a"
+hash = "4490d5d1f7ae24fe69135151b5730018ec7f2e64970349d590564c70d8d67f94d805c5680866086b4c8ba9afb4999b9c0b97b869b6fb24a90808e9ca73974b7f"
 
 [update]
 [update.modrinth]
 mod-id = "OCJRPujW"
-version = "5HufKy1z"
+version = "WKEe9sPL"

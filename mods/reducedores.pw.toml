@@ -1,0 +1,13 @@
+name = "ReducedOres"
+filename = "reducedores-1.21.x-1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/xLAGIY95/versions/45EYN38l/reducedores-1.21.x-1.1.jar"
+hash-format = "sha512"
+hash = "609c4b447169466beb4a0574c3b3e4ed27e9494d4a9a1a7949a46010fa1f84c1105aa428ee14a3bf7a1df40c6e42c06a65aa78cc7b288814891391a9b4f4d3dc"
+
+[update]
+[update.modrinth]
+mod-id = "xLAGIY95"
+version = "45EYN38l"

@@ -1,13 +1,13 @@
-name = "DarkSmelting - RPG Smelt Armor, Tools, Weapons"
+name = "DarkSmelting"
 filename = "darksmelting-neoforge-1.21-1.1.7.jar"
 side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "776d83a5b355683afec7c8034938f326cb808c58"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Cs83btto/versions/3Zfwj1dh/darksmelting-neoforge-1.21-1.1.7.jar"
+hash-format = "sha512"
+hash = "3aa8ecc7b60e65f8ceb2d89686dec9617cf9b610734dfba0d0ac990cba70b2cada23477622250bd567b957511a90f93e05587b0d746b537b87ded38af97372e7"
 
 [update]
-[update.curseforge]
-file-id = 5463685
-project-id = 908418
+[update.modrinth]
+mod-id = "Cs83btto"
+version = "3Zfwj1dh"
