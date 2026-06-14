@@ -1,6 +1,6 @@
 name = "VeinMiner Enchantment"
 filename = "veinminer-enchant-2.10.3+1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/4sP0LXxp/versions/OPuY0dFy/veinminer-enchant-2.10.3%2B1.21.1.jar"
