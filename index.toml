@@ -136,6 +136,16 @@ hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
 
 [[files]]
+file = "mods/beltborne-lanterns-accessories-layer.pw.toml"
+hash = "d4b7f6cf00243e6963d28933424141debda012dbfc4e41d4954defac67b2156b"
+metafile = true
+
+[[files]]
+file = "mods/beltborne-lanterns.pw.toml"
+hash = "a3d64a9bc113d1bca287ee2c47d832685c8d4b8807032cecd8dfffd35a070709"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
@@ -316,11 +326,6 @@ hash = "a29ffaf830f4ac94a8a867f2bd05b453d7f60e38e58c3fe5e05ec8946c5e854a"
 metafile = true
 
 [[files]]
-file = "mods/create-dynamic-lights.pw.toml"
-hash = "56ff7fa56eb6ae7d32cdd1f7ce84022d1ed25b416dd9142572ef0d2360d49ec9"
-metafile = true
-
-[[files]]
 file = "mods/create-electro-energetics.pw.toml"
 hash = "03dc9511506fd3dffe11e58c3c383b89bb9a35973964a6020b891edf2b4fb038"
 metafile = true
@@ -358,11 +363,6 @@ metafile = true
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "572ec7a57be68aa913863f4fa3be7208ae3dbb846043f3c5890a290976b41f90"
-metafile = true
-
-[[files]]
-file = "mods/create-sable-dynamic-lights.pw.toml"
-hash = "8bd25da66655f493b41b090867efb1b33241b8b9f623190c8991fe17709478e1"
 metafile = true
 
 [[files]]
@@ -771,6 +771,11 @@ hash = "724206c2b7dbf3501b9ec3ea38036eb616118c1c0ec562d68526eb529f8dfb41"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "0d2a00252d64ed7d2d9b19994f7accb780304be61f3903d36e810714b414c6cb"
 metafile = true
@@ -1081,18 +1086,8 @@ hash = "c44198b3e1aeab04e29c0b3a6abe9315d2e84aeb2a4f037dc5f906fab575ff3c"
 metafile = true
 
 [[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extras.pw.toml"
 hash = "02b29315d2ec0d055d0ebba1f36879da5bcacc823328a668c7e7340fb2cb03d4"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
 metafile = true
 
 [[files]]
