@@ -1,0 +1,13 @@
+name = "Chunky Autopause"
+filename = "chunkyautopause-0.0.2-1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/sFQLq6Xy/versions/6lyiScam/chunkyautopause-0.0.2-1.21.jar"
+hash-format = "sha512"
+hash = "6ee437caae8ccf6b5f2c6daadbac8922f8711bcda11a8d1781d7d6e6463c39a8e3370ca7cd3150f1774a6a4dd3e71762bdb686e598b6e4f437e4e9f954bf8466"
+
+[update]
+[update.modrinth]
+mod-id = "sFQLq6Xy"
+version = "6lyiScam"
