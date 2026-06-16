@@ -31,11 +31,6 @@ hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
 metafile = true
 
 [[files]]
-file = "mods/aero_cam_sync.pw.toml"
-hash = "06ea6aa660fd44b7d49ea2690c17553968e9de086ef79ac027ef8ecb5aafa862"
-metafile = true
-
-[[files]]
 file = "mods/aeronautics-claims.pw.toml"
 hash = "b0f8fe9577037bc2c7528e95ee4c85ded4abfa7b068c54b14357e4e769346dac"
 metafile = true
@@ -388,11 +383,6 @@ metafile = true
 [[files]]
 file = "mods/create-train-lights.pw.toml"
 hash = "ceda03b1da3ce385d3dec0dcca9a7e7f032eb00b990eea8f1226747202f353bc"
-metafile = true
-
-[[files]]
-file = "mods/create-train-perspective.pw.toml"
-hash = "5ad3b96c8dc48db10264f815291c9da51ca4b649f0591df3b5e9f6652925cfce"
 metafile = true
 
 [[files]]
