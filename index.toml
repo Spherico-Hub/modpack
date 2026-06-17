@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/cameraoverhaul.pw.toml"
-hash = "f74b4cf5a648f3b55d0319a559d2264f8bc34b8d760c8a60850e32ed2ab6da4d"
+hash = "01631254e20e761fcfa5017cee33a9500dbf06c4a8f4aa31e093576c72c04e8c"
 metafile = true
 
 [[files]]
@@ -237,12 +237,12 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel-patcher.pw.toml"
-hash = "caab0399294fca902849b8eb653f56840bc107d5dbd0b0cbaab3d60ca4cc01f9"
+hash = "8bcb7b3fd466c4cee1833889cbbdaa964697725cb92f3ce41fb66b4453877103"
 metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "3f99808dda6b83374cea1d478e2688c69af71a7381b176d0a7df50d219e44ca9"
+hash = "2b715983ea08b3a50275671a0f697583e2f66b388ed273a54aa9aeae640b2437"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
+hash = "1d28edc12a31761b497b7bcd567d0a0ba3d9bbda8527e185e3e5ffa54774926e"
 metafile = true
 
 [[files]]
@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
+hash = "c96213eaba8eca9be5e6339efe1da67a74fb6a69f822f6e2e3d7fc316669af56"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "bbcbc7b4f4510f9dde83cac3d7c674536195cdbdd049207552a685c1a291997a"
+hash = "2234fc4c8fbc8d63d19966e897b580f48156f5af666e6e29acd020e1419a3bff"
 metafile = true
 
 [[files]]
@@ -692,12 +692,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris-veil-compat.pw.toml"
-hash = "70ced2c48045dc299e69b0b0a469f993f744a44bba1422c4a64780515dab3da9"
+hash = "b7cf555c2cfbcce2524a37377cc3ac38f09a270a4746c9b414524434ccd11492"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
+hash = "315fc8fff6fcbbf7592b983acecb7537ba5c6bbc9b7930a64260a7393afdf2dd"
 metafile = true
 
 [[files]]
@@ -743,11 +743,6 @@ metafile = true
 [[files]]
 file = "mods/just-hammers.pw.toml"
 hash = "af4465a52c59ed914f3b924bedb844cee7867b2682a356592aafb7246fd33427"
-metafile = true
-
-[[files]]
-file = "mods/keep-some-modded-inventory.pw.toml"
-hash = "397795773c94d16d9cf537ae89a155a0d4c0f4aaf4066558a4f8c1f72c89c9ce"
 metafile = true
 
 [[files]]

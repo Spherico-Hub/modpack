@@ -11,3 +11,7 @@ hash = "ebbd0ed7cff96b38e92d431741fb6c6b50e07f3f567e2de48dd74d99ef0bea3f0212af08
 [update.modrinth]
 mod-id = "H5XMjpHi"
 version = "7vdkHp0W"
+
+[option]
+optional = true
+description = "Lets you see yourself in first person. Disable if you don't like it."

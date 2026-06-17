@@ -11,3 +11,7 @@ hash = "dd49b1269f8459d58d6157f5ed1b3cf77c9c42d67d726f7d18fd25b48339a56c192dd303
 [update.modrinth]
 mod-id = "m0oRwcZx"
 version = "VJYAujQV"
+
+[option]
+optional = true
+description = "Disable if you have motion sickness."

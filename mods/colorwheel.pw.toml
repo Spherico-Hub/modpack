@@ -11,3 +11,8 @@ hash = "d2473439fdb26ff6a217808beea389f81e4cb387a9d7fde084660c432e70b8689d960c8e
 [update.modrinth]
 mod-id = "BzHgFoGz"
 version = "Uhs2KYar"
+
+
+[option]
+optional = true
+description = "Makes shaders compatible with Create. Disable if you disable Iris."

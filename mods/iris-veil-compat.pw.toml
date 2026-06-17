@@ -11,3 +11,7 @@ hash = "414cbb6128960939dc9c091a217f14a25bb4bd8629bf068a16572311caa2a882001bac0c
 [update.modrinth]
 mod-id = "owQyCHo4"
 version = "x3vxqNpo"
+
+[option]
+optional = true
+description = "Makes shaders compatible with Sable/Aeronautics. Disable if you disable Iris."
