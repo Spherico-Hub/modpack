@@ -1,0 +1,13 @@
+name = "Reskillable Reimagined"
+filename = "reskillable-3.3.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a86a07bd1445e6a29dc6c2706152d01efd7ec43"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7982937
+project-id = 1170464
