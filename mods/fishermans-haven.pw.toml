@@ -1,13 +1,13 @@
 name = "[HUGE UPDATE] Fisherman's Haven"
-filename = "fishermans_haven-3.0204-neoforge-1.21.1.jar"
+filename = "fishermans_haven-3.0306-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cNrIBpSY/versions/ugFKH0F5/fishermans_haven-3.0204-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/cNrIBpSY/versions/fEaFeOWr/fishermans_haven-3.0306-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "fe773b72b495310cdeecbdf7eb707ad40a95228591c6652d369ec1f5687855a9c8f859a1792716e198bf375f9cb68cfa516e3c97483a07b578c2fec463be1eef"
+hash = "61f9bec400a31a38e9bc1ab97f2af986a5963fb2be6c49d445d287d1b28e573313973675ae14cd42258949ae68f010e78ce2045504f6c67f0c820ec1eb2975c2"
 
 [update]
 [update.modrinth]
 mod-id = "cNrIBpSY"
-version = "ugFKH0F5"
+version = "fEaFeOWr"
