@@ -11,3 +11,8 @@ hash = "2636f61c2f1377d39533ef04b0fb0a90ad2f4069eaa3f8a96384e22f0e71be0c46585aa6
 [update.modrinth]
 mod-id = "8zOA0L9I"
 version = "sQVxG59N"
+
+[option]
+optional = true
+default = true
+description = "Disable if you have arachnophobia. Base Fresh Animations required."
