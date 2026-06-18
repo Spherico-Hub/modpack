@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/immediatelyfast.json"
+hash = "e9ed0d2d78408f24de911d7c5bbfa9b891fe4dca25f02215df72b1bbdd995472"
+preserve = true
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "6b1bfd6bb1e061e22e1e5eda2f37336d78c84288b0450b51fb1a34eb61ad6207"
+preserve = true
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "5aaaa565c0195151d793db3db713331cf49b1df01ad497934f44439227f7f7ca"
+preserve = true
+
+[[files]]
+file = "config/spyglass-improvements/settings.json"
+hash = "43dd0bfc234219a066466787c5f0f2e6a335118525080810cdd2bc3b59a57059"
+preserve = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
@@ -1294,6 +1314,11 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "2541b092b92a82757e5d200a6093658e20db548bb8583abad3f4506ed04e5ce6"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "1b58d6fcd6977350da3c0758f655ec9eba643ad7d289b34192db665ec9fa0747"
+preserve = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
