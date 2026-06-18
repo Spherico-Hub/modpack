@@ -11,3 +11,7 @@ hash = "3e68c8038e38b0860cf1258e5fc84bcd98007a70fb7ba49e306186be6e905187527b630b
 [update.modrinth]
 mod-id = "Q1vvjJYV"
 version = "hIibTfxn"
+
+[option]
+optional = true
+description = "Disable if your PC can't handle it. Iris shaders required."
