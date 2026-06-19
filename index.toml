@@ -56,6 +56,11 @@ hash = "b0f8fe9577037bc2c7528e95ee4c85ded4abfa7b068c54b14357e4e769346dac"
 metafile = true
 
 [[files]]
+file = "mods/aileron.pw.toml"
+hash = "a86b49f3eebe85445b5e7c8f9a7ef1e8cb84fa84939fe1f2b933dfb5feb92926"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "19d6b20763edf0247e395db37d6e7e5b012ca063f5820c81a6330baff2218c4e"
 metafile = true
@@ -203,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/burn-by-soul-fire.pw.toml"
 hash = "fb4b49f6072a52562c16867aa7b01f39c1510cdb4bff1fa7d99f4a94fdbd8d60"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
 metafile = true
 
 [[files]]
@@ -551,8 +561,13 @@ hash = "cad80d560c34c780d744287ea31fcfbd0816535a849c54a715004ffff0d7ab1a"
 metafile = true
 
 [[files]]
-file = "mods/elytras-begone.pw.toml"
-hash = "5b92b3edc597ad793aeab09d8680bdf0e47c8b2cb5e786e0ba123c0e1c894abd"
+file = "mods/elytra-slot.pw.toml"
+hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "7b3c7609e07faade9f1c2f5bcf9c655215d38c2ae32d68fc2de7b5b1459fda4c"
 metafile = true
 
 [[files]]
