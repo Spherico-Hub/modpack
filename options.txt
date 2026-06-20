@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","enderzoology:dynamically_copied_textures","moonlight:merged_pack","mod/analogaudio:resourcepacks/3d_cassettes","file/FreshAnimations_v1.10.4.zip","file/FA+All_Extensions-v1.8.1.zip","file/VanillaBackport_x_FreshAnimations_v1.0.zip","vanillabackport:freshly_animated","file/§a§lVocal Villagers §r§71.4.zip","file/VocalGuards.zip"]
+resourcePacks:["vanilla","fabric","mod_resources","enderzoology:dynamically_copied_textures","moonlight:merged_pack","mod/analogaudio:resourcepacks/3d_cassettes","file/FreshAnimations_v1.10.4.zip","file/FA+All_Extensions-v1.8.1.zip","file/FA+Player-v1.1.zip","file/VanillaBackport_x_FreshAnimations_v1.0.zip","vanillabackport:freshly_animated","file/§a§lVocal Villagers §r§71.4.zip","file/VocalGuards.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
