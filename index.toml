@@ -1437,10 +1437,15 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "281b7f707e45246db6c0073c1a9215052a7a3c800f7e62a3f51ea77a02f5ddf8"
+hash = "816ddcc073309f1387f69df6a94997e80db5db9b40042ef0c349a472826952c7"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "61c8c9b5c46917f8232036cd82404e5bed427684eee3127ba5e9c5b82db53f4a"
+hash = "04ed81d00536a01e457b25b7ca7698177b5685f800a65184914b9e7c888229e1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "759f4ae5f4f64025b2509b33b53a13672c93850046309bb5684a7fbcc9708182"
 metafile = true

@@ -14,4 +14,4 @@ version = "hIibTfxn"
 
 [option]
 optional = true
-description = "Disable if your PC can't handle it. Iris shaders required."
+description = "Light performance shaders. Disable if your PC can't handle it. Iris shaders required."

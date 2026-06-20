@@ -14,4 +14,4 @@ version = "VMHXIk50"
 
 [option]
 optional = true
-description = "Disable if your PC can't handle it. Iris shaders required."
+description = "Heavy performance shaders. Disable if your PC can't handle it. Iris shaders required."
