@@ -36,6 +36,11 @@ hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
 
 [[files]]
+file = "mods/aces-spell-utils.pw.toml"
+hash = "cd38c6ff0a1cd02fd2ed08d1238313cb67b8edb4fc933577ccd4297be6c4663f"
+metafile = true
+
+[[files]]
 file = "mods/additional-lights.pw.toml"
 hash = "2a1d37592310a332c4bd5d03df4663054b855e28f797f5c91bb13414416dd632"
 metafile = true
@@ -126,6 +131,11 @@ hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "f72e0f818b9788376820b02ed9d4f1b4d63453dcd65de2fc24743b03dd133664"
+metafile = true
+
+[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "cc360d86f76e729d3ebb7384cfbc933d8ffba694ba91360edeb846d61d14e561"
 metafile = true
@@ -206,11 +216,6 @@ hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
 metafile = true
 
 [[files]]
-file = "mods/burn-by-soul-fire.pw.toml"
-hash = "fb4b49f6072a52562c16867aa7b01f39c1510cdb4bff1fa7d99f4a94fdbd8d60"
-metafile = true
-
-[[files]]
 file = "mods/caelus.pw.toml"
 hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
 metafile = true
@@ -228,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/carryon-aeronautics-compat.pw.toml"
 hash = "575ebf4c7a4d60e8db84e1dbbfed2c9bc73cd50abd61e5f37d92ac9a97cfd900"
+metafile = true
+
+[[files]]
+file = "mods/cataclysm-spellbooks.pw.toml"
+hash = "d081b466ddf0c20397f7e282944dd0df7d359c0373eeaed8a390117a62bf838c"
 metafile = true
 
 [[files]]
@@ -258,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/cobweb.pw.toml"
+hash = "23f681379a3e647a59f0749d25f2ce0725d4afafeed41871c5c87f2658d13a72"
 metafile = true
 
 [[files]]
@@ -457,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
@@ -481,6 +496,11 @@ hash = "c653118b472a7a183e2c39cc73acd58675674154705ff954782ad250923e0852"
 metafile = true
 
 [[files]]
+file = "mods/deeper-and-darker-spellbooks.pw.toml"
+hash = "7c66a219b6fb84db40585c2527bea0693e8ddce427459cb4cb59e9014294a4d1"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "a9ecc4476d26e707189e9f988c19f22961c33dfd5e5b4db1dfd6f87c6a81c545"
 metafile = true
@@ -498,6 +518,11 @@ metafile = true
 [[files]]
 file = "mods/diagonal-windows.pw.toml"
 hash = "218dcd780f0251a15f78b097206ea22a519d57b974b39e2fdd43dce91ac07133"
+metafile = true
+
+[[files]]
+file = "mods/discerning-the-eldritch.pw.toml"
+hash = "1e3172b5abeb1203ec7148a7bddb45edd6aa22a98d848110d1b3c06956a3f0f6"
 metafile = true
 
 [[files]]
@@ -616,6 +641,11 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/fires-ender-expansion.pw.toml"
+hash = "739e60f7676602ffb6e829ab67007eda20f8a39457931db06dd0ad6dcd5b1963"
+metafile = true
+
+[[files]]
 file = "mods/first-person-model.pw.toml"
 hash = "2234fc4c8fbc8d63d19966e897b580f48156f5af666e6e29acd020e1419a3bff"
 metafile = true
@@ -657,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
+hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
 metafile = true
 
 [[files]]
@@ -668,6 +698,16 @@ metafile = true
 [[files]]
 file = "mods/goblin-traders.pw.toml"
 hash = "29abe36be13fe414e13125140f1c4fe373f7daf79a11ba511e0f77a47ea7f946"
+metafile = true
+
+[[files]]
+file = "mods/gtbcs-spellbooks.pw.toml"
+hash = "3074becb4af3c5775b077319fa98de738ea77eccfff89c89a9eff7df34a7aa8d"
+metafile = true
+
+[[files]]
+file = "mods/gtbcs-spelllib.pw.toml"
+hash = "c2477f9bb82634af45d70a97e6fde7d31f1aa0d2e1a07210ec425243d350b6ba"
 metafile = true
 
 [[files]]
@@ -737,12 +777,12 @@ metafile = true
 
 [[files]]
 file = "mods/irons-lib.pw.toml"
-hash = "eb9dd11b787766f0cf68fc83cc1ae97e7bf52be41d3f29ba77062944f774865f"
+hash = "ec000d411bc7cb81fb2a9723e57e8568209e2a67eb7ce2fc7f0e35e4daf14043"
 metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "d21467f13f2bff35f6e7c5172f9820e55499c49bfa1ebd45f587e890f9c4b726"
+hash = "e53136ead606a4431a7d9f4e62337363cf8ccd0da122443c00d0ba2f375d364b"
 metafile = true
 
 [[files]]
@@ -881,6 +921,11 @@ hash = "450ed5663bf1d12ffddc78eda5aa56cb7808cbdac6db8102d18461361aaa555f"
 metafile = true
 
 [[files]]
+file = "mods/magic-from-the-east.pw.toml"
+hash = "92700ec309ad864b97c299e932cd2864a483af8a86d1485953cf4e47b9553edc"
+metafile = true
+
+[[files]]
 file = "mods/measurements.pw.toml"
 hash = "fc40fbc023c67db016e4c0d72f25fcabb708bb17b0749254c00f9b260467ec3f"
 metafile = true
@@ -997,12 +1042,17 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
+metafile = true
+
+[[files]]
+file = "mods/prometheus-api.pw.toml"
+hash = "edef74673c04f649fce7fdb438ae12cf5f9aa6416df471f362043f7a09204113"
 metafile = true
 
 [[files]]
@@ -1128,6 +1178,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "25324a8a9cdc663d3d1952191e873f87531011715de49673cbf7c1b0da0504d6"
+metafile = true
+
+[[files]]
+file = "mods/soul-fire-d.pw.toml"
+hash = "aa7a2c186bf1ce65441be06d1c9a5af18b054098e4bdc37273fb4e75f0d27fc5"
 metafile = true
 
 [[files]]
@@ -1258,6 +1313,16 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "388ad48f4bd97f7391bfcedd485fe5faa2c6ecffd3369dd7d3cbf031b7b04551"
+metafile = true
+
+[[files]]
+file = "mods/winds-spellbooks.pw.toml"
+hash = "e174ded612bdae826523460c671f0486e68b769007c41cb892fab4b22809ac02"
+metafile = true
+
+[[files]]
+file = "mods/world-border.pw.toml"
+hash = "18a2c5562acc2fd6531270bd1ad63899c482d4cac8935b320f90a8dd34b545fe"
 metafile = true
 
 [[files]]
