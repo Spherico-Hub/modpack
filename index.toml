@@ -1416,8 +1416,13 @@ hash = "bd18e422df275ea75255d94b1157ba69e9aee2165eede51ff76eb5e5be9a3eea"
 preserve = true
 
 [[files]]
+file = "resourcepacks/fa-player-extension.pw.toml"
+hash = "c1c2f12576442f7b89aa2be7925484dfd002747bcd9d0a9bded8a3476d91c47e"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "004b39e4e8ccb1c9bf59788f26d83a357a4a3c04f573ff878587876df9a9ac8d"
+hash = "844b982938aed02373c2d775ffbbeeb18e3de57baf5ef25989f89b2b21695891"
 metafile = true
 
 [[files]]
@@ -1427,7 +1432,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/vanilla-backport-x-fresh-animations.pw.toml"
-hash = "01e557228b8298da12e46ae3d6f7a0afff672b3ed2bcbc1af0320783d36761f6"
+hash = "f54dd0febfde080e155b5dd2e5acc71b49f9868bcb1c10af950f21eeec5817eb"
 metafile = true
 
 [[files]]
