@@ -581,6 +581,11 @@ hash = "9f96f136c61af30a45a3c85588d8906ae8031b58316ae70d16930c01fd211ed6"
 metafile = true
 
 [[files]]
+file = "mods/eldritch-expansions.pw.toml"
+hash = "d760e65b8d86d594b89758d82351142fcd11e7a3981130253150e4f19515ee2b"
+metafile = true
+
+[[files]]
 file = "mods/elemental-attack-damage-compat-for-irons-spells-and-spellbooks.pw.toml"
 hash = "cad80d560c34c780d744287ea31fcfbd0816535a849c54a715004ffff0d7ab1a"
 metafile = true
