@@ -976,6 +976,11 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/mousetweaks-x-accessories-fix.pw.toml"
+hash = "b4aae12cec211a99aefde3c74531f61c762f3de8cf2f9f1716e34f63e0a30a10"
+metafile = true
+
+[[files]]
 file = "mods/movable-tracks.pw.toml"
 hash = "9bd78d5332debff02d8b141f9a2050c29a60e236b5a1917fdc3acb27c0bf7ce7"
 metafile = true
