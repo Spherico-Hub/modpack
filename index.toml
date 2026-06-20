@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/areas.json5"
+hash = "9099a08a0652ddad7d39a6c5f61abfca7e88ce24fd1328014669d8b5bb668bc7"
+
+[[files]]
 file = "config/immediatelyfast.json"
 hash = "e9ed0d2d78408f24de911d7c5bbfa9b891fe4dca25f02215df72b1bbdd995472"
 preserve = true
@@ -253,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "3c58cdbfe61c7ecec7068fd066b4c375457631e370a64c032c9f8a8666d4f27b"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "b5b46e4d9cc18c1e2c19c59a7ed58918e49fb5a6692c538e638fb52b82b023a5"
 metafile = true
 
 [[files]]
