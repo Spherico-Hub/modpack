@@ -940,11 +940,6 @@ hash = "450ed5663bf1d12ffddc78eda5aa56cb7808cbdac6db8102d18461361aaa555f"
 metafile = true
 
 [[files]]
-file = "mods/magic-from-the-east.pw.toml"
-hash = "92700ec309ad864b97c299e932cd2864a483af8a86d1485953cf4e47b9553edc"
-metafile = true
-
-[[files]]
 file = "mods/measurements.pw.toml"
 hash = "fc40fbc023c67db016e4c0d72f25fcabb708bb17b0749254c00f9b260467ec3f"
 metafile = true
