@@ -12,3 +12,7 @@ hash = "073638ac7f0656ae088de1963527c15c8d1f6c3aad9220c554d31fb29bed4cccc2b36a86
 [update.modrinth]
 mod-id = "lLqFfGNs"
 version = "oQcHY597"
+
+[option]
+optional = true
+description = "Heavy performance shaders. Disable if your PC can't handle it. Iris shaders required."
