@@ -1,0 +1,13 @@
+name = "Stressmark"
+filename = "stressmark-neoforge-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/r0H1mAA1/versions/6SOtZOyM/stressmark-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "ffaf214a053834ee3e595cca758cfbafa8b4616d9103e286bdc626239bddfb53a27458b87862939cda2b82aa03a6d9a02a8a17b13db0c8f1b1adb510edad5da9"
+
+[update]
+[update.modrinth]
+mod-id = "r0H1mAA1"
+version = "6SOtZOyM"
