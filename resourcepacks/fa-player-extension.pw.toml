@@ -15,4 +15,4 @@ version = "Wj7NeGjP"
 [option]
 optional = true
 default = true
-description = "Base Fresh Animations required."
+description = "Base Fresh Animations required. Looks weird with First Person Model."

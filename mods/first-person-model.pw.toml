@@ -14,4 +14,4 @@ version = "wcETD2Bu"
 
 [option]
 optional = true
-description = "Lets you see yourself in first person. Disable if you don't like it."
+description = "Lets you see yourself in first person. Disable if you don't like it. Looks weird with FA - Player Animations."
