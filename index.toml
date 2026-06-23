@@ -330,11 +330,6 @@ hash = "0f24d3112418b31cf86b84d0ded37decc9dbd50cc229cec632547458c01ffdca"
 metafile = true
 
 [[files]]
-file = "mods/corpse.pw.toml"
-hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
-metafile = true
-
-[[files]]
 file = "mods/create-aeronautics-lift-patch.pw.toml"
 hash = "434d92388783bd89bfad57891f43b7bab9b9c3b16800fd1d8de5f76049a2f304"
 metafile = true
@@ -507,6 +502,11 @@ metafile = true
 [[files]]
 file = "mods/dawn-of-time.pw.toml"
 hash = "c653118b472a7a183e2c39cc73acd58675674154705ff954782ad250923e0852"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "a832de493f31251061455e1a473471d115ff875400ddeae78e35ae8c7868c3c1"
 metafile = true
 
 [[files]]
@@ -740,11 +740,6 @@ hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
 
 [[files]]
-file = "mods/hardcore-revival.pw.toml"
-hash = "27b62f12a031555f1f81f97dc7950f6c2ccc0b615c9c3867172a5cccacaa7209"
-metafile = true
-
-[[files]]
 file = "mods/horse-expert.pw.toml"
 hash = "d144fd8da1186ae9350ec320af092584e9b398869564137c0da1843b34a26b7d"
 metafile = true
@@ -801,7 +796,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "e53136ead606a4431a7d9f4e62337363cf8ccd0da122443c00d0ba2f375d364b"
+hash = "d21467f13f2bff35f6e7c5172f9820e55499c49bfa1ebd45f587e890f9c4b726"
 metafile = true
 
 [[files]]
@@ -832,6 +827,11 @@ metafile = true
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "ab1fea261d5c14aade38b0e596cb99d66c4beb2bc1f4d53fb3106df5dee98008"
+metafile = true
+
+[[files]]
+file = "mods/jrftl.pw.toml"
+hash = "27e4b5adec7c73761cf3e3447657598cd45dcf3f88604ab2b4f2b160c27e2c2e"
 metafile = true
 
 [[files]]
@@ -942,6 +942,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "450ed5663bf1d12ffddc78eda5aa56cb7808cbdac6db8102d18461361aaa555f"
+metafile = true
+
+[[files]]
+file = "mods/magic-from-the-east.pw.toml"
+hash = "92700ec309ad864b97c299e932cd2864a483af8a86d1485953cf4e47b9553edc"
 metafile = true
 
 [[files]]
@@ -1107,16 +1112,6 @@ metafile = true
 [[files]]
 file = "mods/reconnectible-chains.pw.toml"
 hash = "f733bbdd937bc26757446e6dd4e81d41cd1dda2998a944bfd627d3523f689973"
-metafile = true
-
-[[files]]
-file = "mods/reducedloot.pw.toml"
-hash = "6c0b92b32badbcf379bf760f0564c945c8363ccf5b940896da4eccbc3c9b8fcf"
-metafile = true
-
-[[files]]
-file = "mods/reducedores.pw.toml"
-hash = "4defe061039d7798eb2bcbd2b1d24643e3a8ceb6231d92f5a8f6a8bbfd96e4f8"
 metafile = true
 
 [[files]]
