@@ -1,13 +1,13 @@
 name = "Create: Wizardry"
-filename = "create_wizardry-1.21.1-0.5.0-beta.jar"
+filename = "create_wizardry-1.21.1-0.5.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OeGdeWEj/versions/YoUVUmtF/create_wizardry-1.21.1-0.5.0-beta.jar"
+url = "https://cdn.modrinth.com/data/OeGdeWEj/versions/BRpxKyDt/create_wizardry-1.21.1-0.5.0.jar"
 hash-format = "sha512"
-hash = "b0108f3a5eaebc7962bc1adf1138a156c20bcb36818a80ecd857d76fe1199befe37f2ec1d8f66fc5599637a035ab92c3624640ba1645f6c54e5b79643727874e"
+hash = "3a1f3f10300506aa3886454f60acde0369b3496106fff24ac590675b1113931864c7892f39ac8fa0db4ca305b4f283b0d4b2f416f80c48dc5057b58665844f81"
 
 [update]
 [update.modrinth]
 mod-id = "OeGdeWEj"
-version = "YoUVUmtF"
+version = "BRpxKyDt"
