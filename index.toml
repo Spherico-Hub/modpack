@@ -135,6 +135,11 @@ hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
 metafile = true
 
 [[files]]
+file = "mods/azimuth-api.pw.toml"
+hash = "b22ba8ad51616233fdb6d8031ffa0be57fe1164dbf43acc6bcbef6016290528f"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "f72e0f818b9788376820b02ed9d4f1b4d63453dcd65de2fc24743b03dd133664"
 metafile = true
@@ -1222,6 +1227,11 @@ metafile = true
 [[files]]
 file = "mods/stressmark.pw.toml"
 hash = "0edcee5e00f09b07f41eeabc3f97ad24a82e9b9577f2aea48c120c6b4a311ae4"
+metafile = true
+
+[[files]]
+file = "mods/strut-your-stuff.pw.toml"
+hash = "dad6338fb1027e1a75ef211244381a72e9b00150796d0b9691698fa1e606af90"
 metafile = true
 
 [[files]]
