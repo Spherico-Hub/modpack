@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "3dadc9b49b545432e584a0f622221058e61fe5590c349e538cb4e34e7220d20a"
+hash = "f070a31bf5c49a2f87373a0d25fd3c4d2a3be3267e20a0bae592dc6f01e2055a"
 metafile = true
 
 [[files]]
@@ -1441,7 +1441,7 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
-hash = "c1c2f12576442f7b89aa2be7925484dfd002747bcd9d0a9bded8a3476d91c47e"
+hash = "a967bdeef3c57e11818e9ec618e795cd0c0a4c01ede4a1018c4989910269e8c8"
 metafile = true
 
 [[files]]
