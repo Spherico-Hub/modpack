@@ -231,17 +231,12 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "d05dcb863b0b38dbf8ce1a3adbe97a5c787fcbc05c6a6ed57abbb36f72896700"
+hash = "35e8d8498dc5a0b8514b647b4a762808d3d5fab3f38b37707d7802a5c85e8529"
 metafile = true
 
 [[files]]
 file = "mods/carryon-aeronautics-compat.pw.toml"
 hash = "575ebf4c7a4d60e8db84e1dbbfed2c9bc73cd50abd61e5f37d92ac9a97cfd900"
-metafile = true
-
-[[files]]
-file = "mods/carryon-patched.pw.toml"
-hash = "eb0d4ab7a867b220b965927f0d3c3b2dc07f0c5fc2685331e4bfa120eff75f87"
 metafile = true
 
 [[files]]
