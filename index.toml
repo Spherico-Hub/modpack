@@ -540,6 +540,11 @@ hash = "9b46726e3190aa9451b2018f648c7e12589b50676a2365f4df6daf0012df6806"
 metafile = true
 
 [[files]]
+file = "mods/double-doors.pw.toml"
+hash = "99f1ddd42145295a0e53c87a4e14185c975e8b2174a53295a9021988f0748081"
+metafile = true
+
+[[files]]
 file = "mods/dragonkind-evolved.pw.toml"
 hash = "2a88a396d6cbdcccb181967f00d6d2192c6b5416aa079f7800b8a1b5693dd57e"
 metafile = true

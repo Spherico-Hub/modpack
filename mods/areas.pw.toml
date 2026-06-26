@@ -1,6 +1,6 @@
 name = "Areas"
 filename = "areas-1.21.1-6.3.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/NWvsqJ2Z/versions/LSV6lq3z/areas-1.21.1-6.3.jar"
