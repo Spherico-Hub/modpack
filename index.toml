@@ -766,11 +766,6 @@ hash = "5f771525b2ddea308a86a89a94c323325dd72cd6e9dab948fd873746c69b3207"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "ab503e89461dff879ee793253e173625b6ab868f570a371323ef725e567cf5ea"
-metafile = true
-
-[[files]]
 file = "mods/iris-veil-compat.pw.toml"
 hash = "83d0d4037e05c603a640ff34bec7366a002f586bc9ce317e4a8c6d126cadd583"
 metafile = true
@@ -863,11 +858,6 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "0d2a00252d64ed7d2d9b19994f7accb780304be61f3903d36e810714b414c6cb"
 metafile = true
 
 [[files]]
