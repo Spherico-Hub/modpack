@@ -14,4 +14,4 @@ version = "rljqrkhf"
 
 [option]
 optional = true
-description = "Adds echo, muffling and other sound physics. This is more performance-demanding than Sound Physics Remastered."
+description = "Adds echo, muffling and other sound physics. This is more performance-demanding than Sound Physics Remastered. Only chose one sound physics mod."

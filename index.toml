@@ -1197,12 +1197,12 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-perfected.pw.toml"
-hash = "44d8909d4501cf0d323a12c0f8a42893ac034a87c1d4faa757843c2a91866a6e"
+hash = "a470789432dd50c5111ca7b6796af2f14aea2b6cfc67f1d92e1da27f9f5c53fd"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
+hash = "04995fd7c551daa3a7bc7167ccfd47cde0bf85250a427bdbc5715b6a48997cd3"
 metafile = true
 
 [[files]]
