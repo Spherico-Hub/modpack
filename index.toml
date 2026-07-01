@@ -586,11 +586,6 @@ hash = "9f96f136c61af30a45a3c85588d8906ae8031b58316ae70d16930c01fd211ed6"
 metafile = true
 
 [[files]]
-file = "mods/eldritch-expansions.pw.toml"
-hash = "d760e65b8d86d594b89758d82351142fcd11e7a3981130253150e4f19515ee2b"
-metafile = true
-
-[[files]]
 file = "mods/elemental-attack-damage-compat-for-irons-spells-and-spellbooks.pw.toml"
 hash = "cad80d560c34c780d744287ea31fcfbd0816535a849c54a715004ffff0d7ab1a"
 metafile = true
@@ -1198,6 +1193,11 @@ metafile = true
 [[files]]
 file = "mods/soul-fire-d.pw.toml"
 hash = "aa7a2c186bf1ce65441be06d1c9a5af18b054098e4bdc37273fb4e75f0d27fc5"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-perfected.pw.toml"
+hash = "44d8909d4501cf0d323a12c0f8a42893ac034a87c1d4faa757843c2a91866a6e"
 metafile = true
 
 [[files]]
