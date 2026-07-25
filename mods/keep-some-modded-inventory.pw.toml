@@ -1,0 +1,13 @@
+name = "Keep Some Modded Inventory"
+filename = "keepsomemoddedinventory-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2b524hUn/versions/cnKDvHky/keepsomemoddedinventory-1.2.jar"
+hash-format = "sha512"
+hash = "af8746f5a5e66a437a3e4ba27632ad863456cbbe4b239423c58feaf6039ae57978307ae4fc3d704cf35a99312845bf0f9ca19902e60534b43b9d969af0fc5e5b"
+
+[update]
+[update.modrinth]
+mod-id = "2b524hUn"
+version = "cnKDvHky"
