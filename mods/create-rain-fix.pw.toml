@@ -1,0 +1,13 @@
+name = "Create Rain Fix"
+filename = "create-rain-fix-1.21.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4BfBnT1u/versions/Lehy5Cqv/create-rain-fix-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "e3e8062d4fcab83004cb448dab0012943c6f556c1850bff074765a1d92ff2c2df2c78bb292b66c108087b7dbe8c82f81488b25df59c547897e61a036ef4137d2"
+
+[update]
+[update.modrinth]
+mod-id = "4BfBnT1u"
+version = "Lehy5Cqv"

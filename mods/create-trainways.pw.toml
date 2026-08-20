@@ -1,0 +1,8 @@
+name = "create-trainways"
+filename = "create-tramways-0.3.3-mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://github.com/cat4blep/Tramways/releases/download/0.3.3/create-tramways-0.3.3-mc1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "c0e031c9244219dca62fbe546d79f66c9e4d12f5166815828ce395e51d2ff983"
