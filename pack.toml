@@ -1,12 +1,12 @@
 name = "SphericoMC"
 author = "Spherico Hub Contributors"
-version = "5.2.0"
+version = "5.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0106ce373b564c8c6bd61bb4463032344489835abedbfd458a605c03526b6689"
+hash = "550afa923dfc6e7df2eacb1e3acfd4ae040a8629996e7d0fc13cb813b8ff6b7c"
 
 [versions]
 minecraft = "1.21.1"
