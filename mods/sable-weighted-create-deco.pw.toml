@@ -1,13 +1,13 @@
 name = "Sable: Weighted - Create: Deco"
-filename = "sable-weighted_createdeco-1.0.2.jar"
+filename = "sable_weighted_create_deco-1.21.1-1.0.1-d.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/kHIRKdOE/versions/VvftnDNF/sable-weighted_createdeco-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/kHIRKdOE/versions/dplYym5G/sable_weighted_create_deco-1.21.1-1.0.1-d.jar"
 hash-format = "sha512"
-hash = "df4215a14bfc05bd09a20d7b353c919cb0c4149957ce3fc94337ddbd350b260a2853b47febce87f6f2b1cc74d741b4962f8dc9688b45c0b529406db81c2196d9"
+hash = "ceab580049b2fb7d95a7c43b26e9342fcb4ffb3887a366c66259e6688507b51fbef37e11585bfed33352e73748ceed2661d5878450ce98d0dc7c94c10a254520"
 
 [update]
 [update.modrinth]
 mod-id = "kHIRKdOE"
-version = "VvftnDNF"
+version = "dplYym5G"
